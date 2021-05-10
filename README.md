@@ -1,1 +1,3 @@
 # TechFlix
+
+Video recommendation application.
