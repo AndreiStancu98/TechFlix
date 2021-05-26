@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a showcase project. A system monitor application which is used to provide information about running processes on a computer as well as having the ability to terminate them.
+    Tech-flix is microservices project. It's mainly developed in Sping Boot(backend), React(frontend) and PostgreSQL(database).
 
 
 ### Features
@@ -78,13 +78,16 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AndreiStancu98/TechFlix.git
+   git clone https://github.com/AndreiStancu98/spring-financial.git
    ```
-2. Add maven configuration with
+2. Install NPM packages
    ```sh
-   javafx:run
+   npm install
    ```
-   in the Command Line
+   
+3. Create an empty psql database
+
+4. Set database name, user and password in backend/src/main/resources/application.properties 
 
 
 
