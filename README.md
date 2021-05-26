@@ -62,9 +62,11 @@
 
 
 ### Built With
-
-* [Java](https://www.java.com/)
-* [JavaFX](https://openjfx.io/)
+* [Spring](https://spring.io/)
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Postgresql](https://www.postgresql.org/)
+* [React](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
 * [Maven](https://maven.apache.org/)
 
 
@@ -96,7 +98,7 @@ To get a local copy up and running follow these simple steps.
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/AndreiStancu98/Process-Watch](https://github.com/AndreiStancu98/TechFlix)
+Project Link: [https://github.com/AndreiStancu98/TechFlix](https://github.com/AndreiStancu98/TechFlix)
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
