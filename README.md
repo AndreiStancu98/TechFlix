@@ -51,16 +51,6 @@
     Tech-flix is microservices project. It's mainly developed in Sping Boot(backend), React(frontend) and PostgreSQL(database).
 
 
-### Features
-
-* List of currently running processes
-* Refresh functionality
-* Search functionality
-* Sort by name, Process ID, Window Title, Session name, Session number, User, Memory usage, Status, Uptime
-* Terminate and Multiple Terminate running processes
-* OS independent (Tested on Windows 10, Ubuntu, Manjaro, MacOS)
-
-
 ### Built With
 * [Spring](https://spring.io/)
 * [Spring Boot](https://spring.io/projects/spring-boot)
