@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    Tech-flix is microservices project. It's mainly developed in Sping Boot(backend), React(frontend) and PostgreSQL(database).
+    Tech-flix is a microservices project where users get videos a list of videos to learn more about programming. It's mainly developed in Sping Boot(backend), React(frontend) and PostgreSQL(database).
     <br />
     <a href="https://github.com/AndreiStancu98/TechFlix"><strong>Explore the docs »</strong></a>
     <br />
